@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(183, 249, 183);
+}
+span{
+    font-size: 30px;
+}
+#result, #camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.emoji{
+    font-size: 40px;
+}
+.heading{
+    font-size: 20px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+label{
+    font-size: 15px;
+    color: darkblue;
+    padding: 5px;
+    border-radius: 10px;
+}
